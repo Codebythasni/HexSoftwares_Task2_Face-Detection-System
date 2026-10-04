@@ -1,0 +1,6 @@
+# Runtime dependencies
+opencv-python>=4.5
+numpy>=1.21
+
+# Testing
+pytest>=7.0
